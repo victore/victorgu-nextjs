@@ -33,7 +33,7 @@ class Header extends Component {
             </div>
           </div>
         </nav>
-        <header className="masthead">
+        <header className="masthead" style={{ backgroundImage: "url('../static/img/home-bg.jpg'"}}>
           <div className="overlay"></div>
           <div className="container">
             <div className="row">

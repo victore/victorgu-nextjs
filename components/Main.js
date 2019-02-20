@@ -10,10 +10,10 @@ class Main extends Component {
               <div className="post-preview">
                 <a href="post.html">
                   <h2 className="post-title">
-                    Mejor Next.js que Gatsby
+                    Un montón de Podcasts
                   </h2>
                   <h3 className="post-subtitle">
-                    ¿Por qué hice este sitio en Next.js?
+                    Parece hay un boom por los Podcasts en México
                   </h3>
                 </a>
                 <p className="post-meta">Posted by<a href="#"> admin</a> on Feb 20, 2019</p>
