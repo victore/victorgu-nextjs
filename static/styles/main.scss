@@ -1,4 +1,10 @@
 @import "node_modules/bootstrap/scss/bootstrap";
+@import "./clean-blog.scss";
+
+.masthead {
+  background: "#212529";
+  // background: url("https://image.freepik.com/free-vector/businessman-working-background_1294-31.jpg");
+}
 
 $font-size: 50px;
 .example {
